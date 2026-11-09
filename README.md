@@ -37,4 +37,4 @@ Python · Data analysis · Machine learning · Deep learning · AI systems · ML
 - ☕ My best bug fixes happen after coffee
 
 ## Contact
-📫 [LinkedIn](www.linkedin.com/in/md-bhuiy)
+📫 [LinkedIn](https://www.linkedin.com/in/md-bhuiy)
