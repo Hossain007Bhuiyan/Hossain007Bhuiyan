@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-bhuiy)
+
 **AI and Machine Learning** | MSc in AI, Stockholm University | Research and Engineering | Stockholm 🇸🇪
 
 ## About
@@ -37,5 +38,3 @@ Python · Data analysis · Machine learning · Deep learning · AI systems · ML
 - 🏨 My career started in hotels before moving into tech
 - ☕ My best bug fixes happen after coffee
 
-## Contact
-📫 [LinkedIn](https://www.linkedin.com/in/md-bhuiy)
