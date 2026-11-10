@@ -34,6 +34,5 @@ Python · Data analysis · Machine learning · Deep learning · AI systems · ML
 ## Fun facts
 - 🎮 PS5 football fan, ready to take on anyone
 - ⚽ Football is my favorite way to switch off
-- 🏨 My career started in hotels before moving into tech
 - ☕ My best bug fixes happen after coffee
 
